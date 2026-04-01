@@ -1,6 +1,6 @@
 # 🚀 DevOps 90 Days Challenge
 
-Hi, I'm **Ashish Mishra** 👋
+Hi, I'm **Ashish Mishra** 👋❤️
 
 This repository documents my **90 Days of DevOps Journey**, where I will consistently learn and practice DevOps tools, cloud technologies, and automation.
 
